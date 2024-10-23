@@ -11,3 +11,5 @@ This project is a simple **Command Line Interface (CLI) calculator** written in 
    ```bash
    git clone https://github.com/your-username/CLI-Calculator.git
    cd CLI-Calculator
+## Note
+1. This does not take ny user input.
