@@ -12,4 +12,4 @@ This project is a simple **Command Line Interface (CLI) calculator** written in 
    git clone https://github.com/your-username/CLI-Calculator.git
    cd CLI-Calculator
 ## Note
-1. This does not take ny user input.
+1. This does not take any user input.
